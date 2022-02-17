@@ -1,0 +1,8 @@
+此文件夹是使用textcnn预测根因1的代码
+
+1、z_score_test是对测试数据进行padding与归一化之后的文件
+2、z_score_train是padding到30行并且进行归一化之后的训练数据
+3、pre_result是对测试数据每个文件的每行进行预测后进行硬判决得到的
+4、pre_result_new是软判决得到的
+5、TextCNN_Attention_for_rootcause1.ipynb为taxtcnn所有代码，修改文件路径之后即可运行
+6、textcnn_with_attention_root1_old.h5为保存的模型
