@@ -14,4 +14,5 @@ Our team name is team0000, and we ranked 3rd at Final Rank.
 
 4、 code for processing data and training models is in other code folder
 
+5、 code for trainning Text-CNN model is in the text_cnn folder
 
